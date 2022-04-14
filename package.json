@@ -1,4 +1,5 @@
 {
+  "Homepage": "https://fifolio.github.io/Pomodoro",
   "name": "pomodoro",
   "version": "0.1.0",
   "private": true,
@@ -6,6 +7,7 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^3.2.3",
     "material-icons": "^1.10.8",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^18.0.0",
