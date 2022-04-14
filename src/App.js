@@ -114,11 +114,11 @@ function App() {
             <i className="material-icons">play_circle_filled</i>
           )}
         </button>
-        <button className="btn-large orange z-depth-3 btn-floating dark-2" onClick={() => resetTime()}>
+        <button className="btn-large orange z-depth-3 btn-floating dark-2" onClick={() => resetTime()} style={{ 'margin': '20px' }}>
           <i className="material-icons">autorenew</i>
         </button>
       </div>
-    </div>
+    </div >
   );
 }
 
